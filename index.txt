@@ -1,1 +1,7 @@
 jizheshixiaoyinggyitiandedaima
+{
+color:red;
+background:yellow;
+width:500px;
+heihit:500px;
+}
